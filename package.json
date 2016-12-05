@@ -38,6 +38,7 @@
     "html-webpack-plugin": "^2.24.1",
     "lodash": "^4.17.2",
     "material-ui": "^0.16.4",
+    "optimist": "^0.6.1",
     "randomcolor": "^0.4.4",
     "react": "^15.4.1",
     "react-chartjs-2": "^1.5.5",

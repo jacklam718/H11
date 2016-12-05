@@ -16,3 +16,8 @@ yarn start
 ```bash
 yarn run build
 ```
+
+## Tested Node Versions
+```
+v6.20
+```
